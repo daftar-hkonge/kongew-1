@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://daftar-hkonge.github.io/kongew-1/sitemap.xml
